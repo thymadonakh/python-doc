@@ -24,7 +24,7 @@ hero:
   #   alt: "Lotus Docs Logo"
   #   height: 80px
 
-  title: "Lotus Docs"
+  title: "Python Doc"
   subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
 
   image:
