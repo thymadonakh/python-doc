@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'thymadonakh.github.io'
 languageCode = 'en-us'
 title = 'Python Khmer Docs'
 [module]
@@ -12,3 +12,12 @@ title = 'Python Khmer Docs'
       darkMode = true
       title = "Python Khmer"
       prism = true
+      
+[markup.goldmark.renderer]
+    unsafe = true
+
+[[menu.primary]]
+    name  = "Docs"
+    url = "/docs/"
+    identifier = "docs"
+    weight = 10
