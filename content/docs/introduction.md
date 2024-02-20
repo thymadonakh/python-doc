@@ -9,9 +9,6 @@ draft: false
 toc: true
 ---
 
-Hello everyone!
+You wonder why you should learn python. So here is your answer!
 
-```python
-print('hello world')
-
-```
+**អ្នកប្រហែលជាឆ្ងល់ហើយមែនទេ?**

@@ -1,4 +1,4 @@
-baseURL = 'thymadonakh.github.io'
+baseURL = 'python-doc'
 languageCode = 'en-us'
 title = 'Python Khmer Docs'
 [module]
