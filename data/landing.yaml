@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "Python Doc"
-  subtitle: A lightweight, **modern documentation** theme for Hugo. Easily customised for building **fast**, **secure**, and **SEO-friendly** documentation sites.
+  subtitle: រៀនកូដជាមួយពួកយើង
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -36,7 +36,7 @@ hero:
 
   ctaButton:
     icon: rocket_launch
-    btnText: "Get Started"
+    btnText: "​ចាប់ផ្តើម"
     url: "/docs/quickstart/#create-a-new-lotus-docs-site"
   cta2Button:
     icon: construction

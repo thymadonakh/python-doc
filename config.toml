@@ -17,7 +17,8 @@ title = 'Python Khmer Docs'
     unsafe = true
 
 [[menu.primary]]
-    name  = "Docs"
+    name  = "ឯកសារ | Docs"
     url = "/docs/"
     identifier = "docs"
     weight = 10
+
