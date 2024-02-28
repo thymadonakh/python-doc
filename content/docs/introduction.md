@@ -9,7 +9,13 @@ draft: false
 toc: true
 ---
 
-You wonder why you should learn python. So here is your answer!
+## របៀបប្រើប្រាស់វេបសាយ និងតម្រូវការមួយចំនួន
+
+- navigation to through the website
+- IDE online
+- not encourage to use phone but you can (if u don't have laptop)
+- github account
+- practices
 
 
-## អ្នកប្រហែលជាឆ្ងល់ហើយមែនទេ?
+## why not videos?

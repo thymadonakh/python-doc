@@ -11,7 +11,13 @@ toc: true
 
 ## Variables
 
-Imagine variables just like boxes that can store different thing. And you can give the name to the box, so it's easy to find next time.
+variables ប្រៀបបានដូចជាប្រអប់ដើម្បីដាក់ឥវ៉ាន់ ឧទាហរណ៍អ្នកទាំងអស់គ្នាមានរបស់របរជាច្រើន ប្រសិនបើអ្នកដាក់ចូលគ្នា វាពិតជាពិបាករក។ ដូចច្នេះយើងត្រូវដាក់ប្រអប់ផ្សេងៗគ្នា ដើម្បីងាយស្រួលរកថ្ងៃក្រោយ។ ចុះប្រសិនបើយើងមាន ១០០ ប្រអប់ តើយើងត្រូវធ្វើបែបណាដើម្បីអោយរកបានឃើញលឿន? គឺដាក់ឈ្មោះអោយវា!
+
+ឧទាហរណ៍យើងចង់កត់ត្រា ឈ្មោះ អាយុ អោយនរណាម្នាក់ គឺយើងត្រូវធ្វើដូចកូដខាងក្រោម៖
+- ដាក់ឈ្មោះ variable ហើយដាក់សញ្ញ = តម្លៃរបស់វា
+- តម្លៃអាចជា អក្សរ លេខ ឬក៏ boolean (True or False)
+
+ដើម្បីអោយតម្លៃរបស់ variables ត្រូវបានបង្ហាញយើងត្រូវប្រើមុខងារ ```print()```
 
 ```python
 name = 'Gemini'
@@ -19,7 +25,6 @@ age = 1
 isHuman = False
 
 # use print() function to print it out
-
 print(name)
 print(age)
 print(isHuman)
